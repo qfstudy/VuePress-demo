@@ -1,5 +1,6 @@
 ---
 title: icon
+pageClass: custom-page-class
 ---
 # icon
 <ClientOnly>
